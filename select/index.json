@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "世界のつづき - The World's Continuation",
+  "base_artist": "Ado",
+  "createdAt": "2026-03-04T14:46:14.624925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界のつづき",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_世界のつづき_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界のつづき",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_世界のつづき_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界のつづき",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_世界のつづき_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界のつづき - The World's Continuation",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_世界のつづき_-_The_World's_Continuation_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界のつづき",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_世界のつづき_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界のつづき - The World's Continuation",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_世界のつづき_-_The_World's_Continuation_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "世界のつづき",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_世界のつづき_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "世界のつづき (The World's Continuation)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_世界のつづき_(The_World's_Continuation)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "世界のつづき (Youth Ver.)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_世界のつづき_(Youth_Ver.)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "世界のつづき (Youth Ver.)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_世界のつづき_(Youth_Ver.)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界のつづき",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_世界のつづき_Ado.txt"
+    }
+  ]
+}
